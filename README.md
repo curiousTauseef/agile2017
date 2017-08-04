@@ -9,4 +9,5 @@ https://submissions.agilealliance.org/agile2017/sessions
 Our Proposal
 https://submissions.agilealliance.org/agile2017/sessions/6623
 
-
+Getting a Proposal Accepted at Agile2017 -- Storyboard
+https://agile2017proposals.storiesonboard.com/m/getting-a-proposal-accepted-at-agile2017
